@@ -7,7 +7,7 @@ This package is tested on Ubuntu22.04 with ROS 2 Humble.
 
 2. clone the repo
 ```bash
-git clone 
+git clone https://github.com/Nangong-Yufeng/turtlesim_mavros.git
 cd turtlesim_mavros
 ```
 
